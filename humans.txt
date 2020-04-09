@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+Hi, This is sharook i am learning the devops
+
 # TEAM
 
     Sharuk Khan

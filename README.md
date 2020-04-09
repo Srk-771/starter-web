@@ -7,6 +7,8 @@ This is GIT project, which we are using as simple project
 
 A lot of lectures are already submmited
 
+This is sharuk i am attending the devops training
+
 
 
 ## GIT & Github Trainning

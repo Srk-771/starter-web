@@ -14,3 +14,6 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, Ajak
+
+    Machine Learning, AI, Docker
+    Jenkins, Python, Django

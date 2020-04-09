@@ -4,7 +4,7 @@
 # TEAM
 
     Sharuk Khan
-    Sharuokhav.kahn@gmail.com
+    .kahn@gmail.com
 
 # THANKS
 
@@ -14,3 +14,6 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, Ajak
+
+    java, java script, node js
+

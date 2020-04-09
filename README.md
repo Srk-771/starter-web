@@ -19,6 +19,8 @@ this is famous and one of the best tranining course of devops
 
 Adding GIT Comparision Lecture
 
+Adding GIT Rebase Lacture
+
 
 
 ## GIT Content

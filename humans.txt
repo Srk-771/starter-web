@@ -1,7 +1,11 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+<<<<<<< HEAD
 Hi, This is sharook i am learning the devops
+
+Hello now time is excatly 1:23
+
 
 # TEAM
 

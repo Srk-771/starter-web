@@ -9,6 +9,8 @@ A lot of lectures are already submmited
 
 This is sharuk i am attending the devops training
 
+Sharuk Khan
+
 
 
 ## GIT & Github Trainning

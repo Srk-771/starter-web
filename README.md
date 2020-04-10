@@ -31,4 +31,4 @@ Adding GIT Rebase Lacture
 
 Comparision with repo
 
-##Tis is simple TEXT
+## Changing the Readme file for comparision

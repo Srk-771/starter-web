@@ -30,6 +30,8 @@ Changing file from Github editor
 
 ## GIT Content
 
+Addind lecture on stach
+
 
 
 Comparision with repo

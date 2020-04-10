@@ -23,6 +23,7 @@ Adding GIT Comparision Lecture
 
 Adding GIT Rebase Lacture
 
+Changing file from Github editor
 
 
 ## GIT Content

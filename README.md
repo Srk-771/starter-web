@@ -32,6 +32,8 @@ Changing file from Github editor
 
 Addind lecture on stach
 
+Adding multiple stach 
+
 
 
 Comparision with repo
